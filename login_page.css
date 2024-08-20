@@ -1,0 +1,59 @@
+
+.login_pa {
+    width: 400px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px; 
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+.login_pa > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 10px;
+    padding: 12px;
+    width: 92%;
+    font-size: 1rem;
+}
+div{
+    padding: 5px;
+    margin: 10px;
+}
+.button_a {
+    background: #0a4dd2;
+    border: 1px solid #0a4dd2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.button_b {
+    background: #022366;
+    border: 1px solid #022366;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.button_c{
+    background: #fff;
+    border: 1px solid #645f5f;
+    color: #000;
+    font-size: 1.25rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
